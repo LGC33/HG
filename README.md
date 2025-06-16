@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HG Technologies LLC - Company Website
 
 A modern, professional website for HG Technologies LLC showcasing innovative API solutions and testing services.
